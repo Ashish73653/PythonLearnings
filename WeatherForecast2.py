@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-user_api = "904b5c5734ac6e05328542bc49da2290"
+user_api = "insert token here"
 city = input("Enter city name: ")
 countryCode = input("Enter country code: ")
 
